@@ -16,13 +16,14 @@ The dashboard was built using the following tools and technologies:
 * 📁 **File Format –** .pbix for report development and .png for dashboard previews.
 
 ## 4. Key Metrics & KPIs
-    * **Tracked Average Age:** 38.30 years old
-    * **Average Balance:** 63.55K
-    * **Average Tenure:** 5.05 years
-    * **Average Salary:** 100.17K
-    * **Average Credit Score:** 650.06
-    * **Total Exited Customers:** 350
-    * **Active & Credit Card Metrics:** Tracked via dedicated cards for credit card holders (2K), active members (1K), total customers            (3K), and products (4K).
+   * **Tracked Average Age:** 38.30 years old
+   * **Average Balance:** 63.55K
+   * **Average Tenure:** 5.05 years
+   * **Average Salary:** 100.17K
+   * **Average Credit Score:** 650.06
+   * **Total Exited Customers:** 350
+   * **Active & Credit Card Metrics:** Tracked via dedicated cards for credit card holders (2K), active members (1K), 
+        total customers(3K), and products (4K).
     
 ## 5. Key Visualizations & Features
   * **Sum of Exited by Gender (Donut Chart):** Compares customer churn distribution across male and female demographic segments.
@@ -32,12 +33,13 @@ The dashboard was built using the following tools and technologies:
   * **No. of Customer by Exited Status (Donut Chart):** Breaks down the overall retention vs. churn ratio (showing 12.71% churn status).    * **Distribution of Age and Exited Customers (Bar/Histogram Chart):** Illustrates customer age distribution against exit status.
    
 ## 6. Business Impact & Insights:
-  **Geographic Insights:** Enables leadership to spot region-specific attrition risks across international markets.
-  **Balance & Product Strategy:** Highlights account balance thresholds and product holding counts that trigger higher churn risks.         **Demographic Profiling:** Assists in understanding age and gender trends among departing customers to refine retention campaigns.
-   
+ * **Geographic Insights:** Enables leadership to spot region-specific attrition risks across international markets.
+ * **Balance & Product Strategy:** Highlights account balance thresholds and product holding counts that trigger higher churn risks.      
+ * **Demographic Profiling:** Assists in understanding age and gender trends among departing customers to refine retention campaigns.
+
 ## 7. Screenshots / Demos
 Show what the dashboard looks like-
-Example-![Dashboard Preview](.jpg)
+Example-![Dashboard Preview](https://github.com/Assthaaa/Bank-Customer-Churn-Dashboard/blob/main/Snapshot%20of%20Bank%20Customer%20Churn%20Dashboard.png)
 
 
 
